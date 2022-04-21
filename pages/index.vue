@@ -1,3 +1,5 @@
+<script setup lang="ts"></script>
+
 <template>
-  <div>teyvat</div>
+  <div id="map">teyvat</div>
 </template>
