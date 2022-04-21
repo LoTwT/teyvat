@@ -1,5 +1,7 @@
-<script setup lang="ts"></script>
+<script setup lang="ts">
+const { $L } = useNuxtApp()
+</script>
 
 <template>
-  <div id="map">teyvat</div>
+  <div id="map" />
 </template>
