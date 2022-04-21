@@ -8,6 +8,7 @@ specifiers:
   '@unocss/nuxt': ^0.31.8
   '@vueuse/nuxt': ^8.3.0
   husky: ^7.0.4
+  leaflet: ^1.8.0
   lint-staged: ^12.4.0
   nuxt: ^3.0.0-rc.1
   pinia: ^2.0.13
@@ -16,6 +17,7 @@ specifiers:
   typescript: ^4.6.3
 
 dependencies:
+  leaflet: 1.8.0
   pinia: 2.0.13_typescript@4.6.3
 
 devDependencies:
@@ -3298,6 +3300,10 @@ packages:
     dependencies:
       readable-stream: 2.3.7
     dev: true
+
+  /leaflet/1.8.0:
+    resolution: {integrity: sha512-gwhMjFCQiYs3x/Sf+d49f10ERXaEFCPr+nVTryhAW8DWbMGqJqt9G4XuIaHmFW08zYvhgdzqXGr8AlW8v8dQkA==}
+    dev: false
 
   /lilconfig/2.0.4:
     resolution: {integrity: sha512-bfTIN7lEsiooCocSISTWXkiWJkRqtL9wYtYy+8EK3Y41qh3mpwPU0ycTOgjdY9ErwXCc8QyrQp82bdL0Xkm9yA==}
