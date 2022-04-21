@@ -2,12 +2,12 @@ import { defineNuxtConfig } from "nuxt"
 
 export default defineNuxtConfig({
   meta: {
-    title: "Nuxt3 Starter",
+    title: "teyvat-lore",
     link: [
       {
         rel: "icon",
-        type: "image/png",
-        href: "/nuxt.png",
+        type: "image/x-icon",
+        href: "/favicon.ico",
       },
     ],
   },
